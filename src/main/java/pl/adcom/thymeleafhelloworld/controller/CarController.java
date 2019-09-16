@@ -19,7 +19,7 @@ public class CarController {
         Car car1 = new Car("Fiat", "126p");
         Car car2 = new Car("Polonez", "Caro");
         Car car3 = new Car("Hyundai", "i30");
-//        listaAut = Arrays.asList(car,car1,car2,car3);
+
         listaAut = new ArrayList<>();
         listaAut.add(car);
         listaAut.add(car1);
